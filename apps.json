@@ -1,18 +1,50 @@
 {
-  "name": "apps.json",
-  "path": "apps.json",
-  "sha": "9670e1ae686ede05fddff75bb8555fbf545fc816",
-  "size": 2368,
-  "url": "https://api.github.com/repos/KyoSakuyo/Altstore-Repository-kyo/contents/apps.json?ref=main",
-  "html_url": "https://github.com/KyoSakuyo/Altstore-Repository-kyo/blob/main/apps.json",
-  "git_url": "https://api.github.com/repos/KyoSakuyo/Altstore-Repository-kyo/git/blobs/9670e1ae686ede05fddff75bb8555fbf545fc816",
-  "download_url": "https://raw.githubusercontent.com/KyoSakuyo/Altstore-Repository-kyo/main/apps.json",
-  "type": "file",
-  "content": "ewogICJuYW1lIjogIllvdU1vZCBSZXBvIiwKICAiaWRlbnRpZmllciI6ICJj\nb20uTW91bnRhaW5vZlBlbmd1aW4ub3JnIiwKICAiYXBpVmVyc2lvbiI6ICJ2\nMiIsCiAgInN1YnRpdGxlIjogIkF1dG9tYXRlZCBZb3VNb2QgYnVpbGRzIGZv\nciBTaWdudWxvdXMiLAogICJkZXNjcmlwdGlvbiI6ICJBdXRvLWJ1aWx0IFlv\ndU1vZCBJUEEgXHUyMDE0IHVwZGF0ZWQgd2hlbmV2ZXIgYSBuZXcgWW91VHVi\nZSB2ZXJzaW9uIGlzIGF2YWlsYWJsZS4iLAogICJpY29uVVJMIjogImh0dHBz\nOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9Nb3VudGFpbm9mUGVuZ3Vp\nbi9BbHRzdG9yZS1SZXBvc2l0b3J5L21haW4vYXNzZXRzL0lNR18yNjQyLnBu\nZyIsCiAgIndlYnNpdGUiOiAiaHR0cHM6Ly9naXRodWIuY29tL01vdW50YWlu\nb2ZQZW5ndWluL0FsdHN0b3JlLVJlcG9zaXRvcnkiLAogICJhcHBzIjogWwog\nICAgewogICAgICAibmFtZSI6ICJZb3VNb2QiLAogICAgICAiYnVuZGxlSWRl\nbnRpZmllciI6ICJjb20uZ29vZ2xlLmlvcy55b3V0dWJlIiwKICAgICAgImRl\ndmVsb3Blck5hbWUiOiAiVG9ud2FsdGVyODg4IiwKICAgICAgInN1YnRpdGxl\nIjogIllvdVR1YmUgd2l0aCBZb3VNb2QgdHdlYWtzIiwKICAgICAgImxvY2Fs\naXplZERlc2NyaXB0aW9uIjogIllvdU1vZCBicmluZ3MgYmFjayBZVExpdGUt\nc3R5bGUgZmVhdHVyZXM6IGFkIHJlbW92YWwsIGJhY2tncm91bmQgcGxheWJh\nY2ssIFVJIGN1c3RvbWlzYXRpb24sIGFuZCBtb3JlIFx1MjAxNCB3aXRob3V0\nIGEgcGF5d2FsbC4iLAogICAgICAiaWNvblVSTCI6ICJodHRwczovL3Jhdy5n\naXRodWJ1c2VyY29udGVudC5jb20vTW91bnRhaW5vZlBlbmd1aW4vQWx0c3Rv\ncmUtUmVwb3NpdG9yeS9tYWluL2Fzc2V0cy9Zb3VUdWJlIEljb24ucG5nIiwK\nICAgICAgInRpbnRDb2xvciI6ICJGRjAwMDAiLAogICAgICAic2NyZWVuc2hv\ndHMiOiBbXSwKICAgICAgInZlcnNpb25zIjogWwogICAgICAgIHsKICAgICAg\nICAgICJ2ZXJzaW9uIjogIjIxLjE4LjQiLAogICAgICAgICAgImRhdGUiOiAi\nMjAyNi0wNS0wNSIsCiAgICAgICAgICAibG9jYWxpemVkRGVzY3JpcHRpb24i\nOiAiWW91VHViZSAyMS4xOC40ICsgWW91TW9kIHYxLjMuMFxuXG4jIyBDaGFu\nZ2Vsb2dcclxuLSBBZGQgZG93bmxvYWRpbmcgb3B0aW9ucyAoSFVHRSB0aGFu\na3MgdG8gQGRhaXN1a2UxMjI3IGZvciBpbXBsZW1lbnRpbmcgYWxsIG9mIHRo\naXMpXHJcblRoYXQncyBpdC5cclxuU3BvbnNvckJsb2NrIHdpbGwgYmUgYWRk\nZWQgaW4gdGhlIG5leHQgcmVsZWFzZSAodjEuNC4wKSB3aXRoIHNvbWUgb3Ro\nZXIgc3R1ZmYuIiwKICAgICAgICAgICJkb3dubG9hZFVSTCI6ICJodHRwczov\nL2dpdGh1Yi5jb20vTW91bnRhaW5vZlBlbmd1aW4vQWx0c3RvcmUtUmVwb3Np\ndG9yeS9yZWxlYXNlcy9kb3dubG9hZC92MS4yLjMvWW91TW9kXzEuMi4zXzIx\nLjE4LjQuaXBhIiwKICAgICAgICAgICJzaXplIjogMTQ0MjI0OTUzLAogICAg\nICAgICAgIm1pbk9TVmVyc2lvbiI6ICIxNC4wIgogICAgICAgIH0sCiAgICAg\nICAgewogICAgICAgICAgInZlcnNpb24iOiAiMjEuMTcuMyIsCiAgICAgICAg\nICAiZGF0ZSI6ICIyMDI2LTA1LTA0IiwKICAgICAgICAgICJsb2NhbGl6ZWRE\nZXNjcmlwdGlvbiI6ICJZb3VUdWJlIDIxLjE3LjMgKyBZb3VNb2QgdjEuMi4z\nXG5cbiMjIENoYW5nZWxvZ1xyXG4tIEFkZHMgdGhlIGhpZGUgU2hvcnRzIHNo\nZWxmIG9wdGlvbiBiYWNrIGFuZCBDbGVhbnVwLiAoIzUyKVxyXG4tIEFkZHMg\nYSBvcHRpb24gdG8gcmVwbGFjZSBuZXh0L3ByZXZpb3VzIGJ1dHRvbnMgd2l0\naCBmb3J3YXJkL2JhY2t3YXJkIGJ1dHRvbnMuXHJcbi0gQWRkcyBhIG9wdGlv\nbiB0byBkaXNhYmxlIGhpbnRzLlxyXG4tIEFkZHMgYSBvcHRpb24gdG8gZm9y\nY2libHkgZW5hYmxlcyBtaW5pcGxheWVyIChlc3BlY2lhbGx5IGtpZCB2aWRl\nb3MpLlxyXG4tIEFkZHMgYSBvcHRpb24gdG8gYWx3YXlzIHNob3cgc2Vla2Jh\nciBpbiBmdWxsc2NyZWVuIG1vZGUuXHJcbi0gVXBkYXRlIEZyZW5jaCB0cmFu\nc2xhdGlvbnMgKCM1NikiLAogICAgICAgICAgImRvd25sb2FkVVJMIjogImh0\ndHBzOi8vZ2l0aHViLmNvbS9Nb3VudGFpbm9mUGVuZ3Vpbi9BbHRzdG9yZS1S\nZXBvc2l0b3J5L3JlbGVhc2VzL2Rvd25sb2FkL3YxLjIuMy9Zb3VNb2RfMS4y\nLjNfMjEuMTcuMy5pcGEiLAogICAgICAgICAgInNpemUiOiAxMjA2NDE2OTIs\nCiAgICAgICAgICAibWluT1NWZXJzaW9uIjogIjE0LjAiCiAgICAgICAgfQog\nICAgICBdLAogICAgICAiYXBwUGVybWlzc2lvbnMiOiB7CiAgICAgICAgImVu\ndGl0bGVtZW50cyI6IFtdLAogICAgICAgICJwcml2YWN5Ijoge30KICAgICAg\nfQogICAgfQogIF0sCiAgIm5ld3MiOiBbXQp9Cg==\n",
-  "encoding": "base64",
-  "_links": {
-    "self": "https://api.github.com/repos/KyoSakuyo/Altstore-Repository-kyo/contents/apps.json?ref=main",
-    "git": "https://api.github.com/repos/KyoSakuyo/Altstore-Repository-kyo/git/blobs/9670e1ae686ede05fddff75bb8555fbf545fc816",
-    "html": "https://github.com/KyoSakuyo/Altstore-Repository-kyo/blob/main/apps.json"
-  }
+  "name": "YouMod Repo",
+  "identifier": "com.MountainofPenguin.org",
+  "apiVersion": "v2",
+  "subtitle": "Automated YouMod builds for Signulous",
+  "description": "Auto-built YouMod IPA — updated whenever a new YouTube version is available.",
+  "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/Altstore-Repository/main/assets/IMG_2642.png",
+  "website": "https://github.com/MountainofPenguin/Altstore-Repository",
+  "apps": [
+    {
+      "name": "YouMod",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Tonwalter888",
+      "subtitle": "YouTube with YouMod tweaks",
+      "localizedDescription": "YouMod brings back YTLite-style features: ad removal, background playback, UI customisation, and more — without a paywall.",
+      "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/Altstore-Repository/main/assets/YouTube Icon.png",
+      "tintColor": "FF0000",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "21.29.3",
+          "date": "2026-09-12",
+          "localizedDescription": "YouTube YTKACE 21.29.3",
+          "downloadURL": "https://github.com/KyoSakuyo/Altstore-Repository-kyo/releases/download/ytkace-21.29.3/YouTube_21.29.3_YTKACE.ipa",
+          "size": 145410369,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "21.18.4",
+          "date": "2026-05-05",
+          "downloadURL": "https://github.com/MountainofPenguin/Altstore-Repository/releases/download/v1.2.3/YouMod_1.2.3_21.18.4.ipa",
+          "size": 144224953,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "21.17.3",
+          "date": "2026-05-04",
+          "downloadURL": "https://github.com/MountainofPenguin/Altstore-Repository/releases/download/v1.2.3/YouMod_1.2.3_21.17.3.ipa",
+          "size": 120641692,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
 }
